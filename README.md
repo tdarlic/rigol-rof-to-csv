@@ -1,4 +1,5 @@
 # Rigol-rof-to-csv Python script
+Simple script used to convert data recorded by Rigol DP832 Programmable DC Power Supply
 ## Usage
 
 Outputting data directly to stdout
