@@ -11,7 +11,7 @@ Saving output to csv file
 python readROF.py infile.ROF > outfile.csv
 ```
 
-Idea came from:
+Idea came from this repo written in Haskell:
 https://github.com/mcmayer/rigol-rof-reader
 
 Format is documented in:
@@ -48,4 +48,5 @@ Example
 ```
 (b'R', b'O', b'F', b'\x00', b'\x01', b'\xa3', 12, 0, 0, 19140, 1, 4000, 1952)
 ```
+*Check out test_output dir for example files including spreadsheet export
 
