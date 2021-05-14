@@ -50,4 +50,17 @@ Example
 (b'R', b'O', b'F', b'\x00', b'\x01', b'\xa3', 12, 0, 0, 19140, 1, 4000, 1952)
 ```
 **Check out __test_output__ dir for example files including spreadsheet export**
-
+## Example output
+```
+Checking: test.ROF
+Sample period: 1
+Number of points: 29700
+Timspan: 29700 seconds
+CH1-Vol,CH1-Cur,CH2-Vol,CH2-Cur,CH3-Vol,CH3-Cur
+0.003,0.0009,0.0057,0.0,0.0024,0.0
+0.0031,0.0009,0.0056,0.0,0.0024,0.0
+0.003,0.0009,0.0057,0.0,0.0024,0.0351
+0.003,0.0009,0.0056,0.0,4.3022,0.0652
+0.003,0.001,0.0056,0.0,4.3022,0.0847
+....
+```
